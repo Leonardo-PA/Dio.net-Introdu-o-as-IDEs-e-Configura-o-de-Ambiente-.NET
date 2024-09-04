@@ -1,0 +1,4 @@
+C:\Users\leopd\Desktop\DIO.net\obj\Debug\net8.0\DIO.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\DIO.net\obj\Debug\net8.0\DIO.net.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\DIO.net\obj\Debug\net8.0\DIO.net.AssemblyInfo.cs
+C:\Users\leopd\Desktop\DIO.net\obj\Debug\net8.0\DIO.net.csproj.CoreCompileInputs.cache

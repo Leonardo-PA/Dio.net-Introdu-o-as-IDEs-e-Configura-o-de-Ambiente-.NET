@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO.net", "DIO.net.csproj", "{564251C8-2779-44D5-95DA-18FDC3D07133}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplos fundamentos", "Exemplos fundamentos\Exemplos fundamentos.csproj", "{D839B3F1-9A6D-4E99-B596-A3D6950AD100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564251C8-2779-44D5-95DA-18FDC3D07133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564251C8-2779-44D5-95DA-18FDC3D07133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564251C8-2779-44D5-95DA-18FDC3D07133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564251C8-2779-44D5-95DA-18FDC3D07133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D839B3F1-9A6D-4E99-B596-A3D6950AD100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D839B3F1-9A6D-4E99-B596-A3D6950AD100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D839B3F1-9A6D-4E99-B596-A3D6950AD100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D839B3F1-9A6D-4E99-B596-A3D6950AD100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007841BD-64D8-4675-94CD-65A4C140FD58}
+	EndGlobalSection
+EndGlobal

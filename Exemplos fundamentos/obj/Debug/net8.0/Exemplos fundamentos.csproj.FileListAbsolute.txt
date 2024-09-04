@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\bin\Debug\net8.0\Exemplos fundamentos.exe
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\bin\Debug\net8.0\Exemplos fundamentos.deps.json
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\bin\Debug\net8.0\Exemplos fundamentos.runtimeconfig.json
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\bin\Debug\net8.0\Exemplos fundamentos.dll
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\bin\Debug\net8.0\Exemplos fundamentos.pdb
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\Exemplos fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\Exemplos fundamentos.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\Exemplos fundamentos.AssemblyInfo.cs
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\Exemplos fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\Exemplos fundamentos.dll
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\refint\Exemplos fundamentos.dll
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\Exemplos fundamentos.pdb
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\Exemplos fundamentos.genruntimeconfig.cache
+C:\Users\leopd\Desktop\DIO.net\Exemplos fundamentos\obj\Debug\net8.0\ref\Exemplos fundamentos.dll
