@@ -1,4 +1,4 @@
-# <p align="center"> 👨‍💻Introdução as IDEs e Configuração de Ambiente .NET👨‍💻 </p>
+# <p align="center"> 👨‍💻Introdução IDEs e Configuração de Ambiente .NET👨‍💻 </p>
 
 ## Explorando o VScode primeros passos dentro dos arquivos explorando o vscode e suas funções exemplos de fundamentose arquivos <p>Em sequencia sequindo os topicos abaixo. </p>
 
